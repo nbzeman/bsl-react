@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "bs-react-native",
-    "slug": "bs-react-native",
+    "name": "bsl-react-native-local",
+    "slug": "bsl-react-native-local",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
